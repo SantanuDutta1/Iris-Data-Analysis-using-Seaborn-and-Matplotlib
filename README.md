@@ -49,8 +49,9 @@ We will use the Iris dataset for this assignment. The dataset contains 150 sampl
 
 6. **Box Plot**
 <p align="left">
-  <img width="600" height="350" src="Iris Photos and graph/images1.jpeg">
+  <img width="600" height="350" src="Iris Photos and graph/boplot of each species (1).png">
 </p>
+
 7. **Subplots**
 <p align="left">
   <img width="600" height="350" src="Iris Photos and graph/images1.jpeg">
