@@ -21,6 +21,42 @@ We will use the Iris dataset for this assignment. The dataset contains 150 sampl
 6. **Box Plot:** Create a box plot showing the distribution of sepal length for each species.
 7. **Subplots:** Combine the scatter plot and the histogram into one figure by using subplots.
 
+## Based on report 
+
+1. **Line Plot**
+   <p align="center">
+  <img width="600" height="350" src="Iris Photos and graph/images1.jpeg">
+</p>
+
+2. **Scatter Plot**
+   <p align="left">
+  <img width="600" height="350" src="Iris Photos and graph/images1.jpeg">
+</p>
+
+3. **Histogram**
+   <p align="left">
+  <img width="600" height="350" src="Iris Photos and graph/images1.jpeg">
+</p>
+4. **Bar Plot**
+   <p align="left">
+  <img width="600" height="350" src="Iris Photos and graph/images1.jpeg">
+</p>
+5. **Pie Chart**
+<p align="left">
+  <img width="600" height="350" src="Iris Photos and graph/images1.jpeg">
+</p>
+6. **Box Plot**
+<p align="left">
+  <img width="600" height="350" src="Iris Photos and graph/images1.jpeg">
+</p>
+7. **Subplots**
+<p align="left">
+  <img width="600" height="350" src="Iris Photos and graph/images1.jpeg">
+</p>
+8.  **Pairplots**
+<p align="left">
+  <img width="600" height="350" src="Iris Photos and graph/images1.jpeg">
+</p>  
 
 You can see my project [here.](https://github.com/SantanuDutta1/Boston-Housing-data-Analysis-Python/blob/main/Boston_Housing_data_EDA.ipynb)
 ## Authors
