@@ -37,9 +37,10 @@ We will use the Iris dataset for this assignment. The dataset contains 150 sampl
    <p align="left">
   <img width="600" height="350" src="Iris Photos and graph/Histrogram.png">
 </p>
+
 4. **Bar Plot**
    <p align="left">
-  <img width="600" height="350" src="Iris Photos and graph/images1.jpeg">
+  <img width="600" height="350" src="Iris Photos and graph/boplot of each species (1).png">
 </p>
 5. **Pie Chart**
 <p align="left">
