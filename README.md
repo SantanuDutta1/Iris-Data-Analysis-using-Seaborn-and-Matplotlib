@@ -58,7 +58,7 @@ We will use the Iris dataset for this assignment. The dataset contains 150 sampl
 </p>
 8.  **Pairplots**
 <p align="left">
-  <img width="600" height="350" src="Iris Photos and graph/images1.jpeg">
+  <img width="600" height="350" src="Iris Photos and graph/pairplot.png">
 </p>  
 
 You can see my project [here.](https://github.com/SantanuDutta1/Boston-Housing-data-Analysis-Python/blob/main/Boston_Housing_data_EDA.ipynb)
