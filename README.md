@@ -1,10 +1,11 @@
 <h1 align="center">  <img src="Boston photos/download.png" width="60" height="50"/> </a> Iris Dataset Analysis Using Seaborn and Matplotlib<a  target="_blank"> <img src="Boston photos/download (1).png"  width="60" height="50"/> </a> </h1>
-# Iris Dataset Analysis Using Seaborn and Matplotlib
 
 ## Introduction
 
 Matplotlib is a plotting library for the Python programming language. It provides an object-oriented API for embedding plots into applications using general-purpose GUI toolkits like Tkinter, wxPython, Qt, or GTK.
-
+<p align="center">
+  <img width="600" height="350" src="Boston photos/download.jpeg">
+</p>
 ## Dataset
 
 We will use the Iris dataset for this assignment. The dataset contains 150 samples from each of three species of Iris flowers (Iris setosa, Iris virginica, and Iris versicolor). Four features were measured from each sample: the lengths and the widths of the sepals and petals.
@@ -20,8 +21,10 @@ We will use the Iris dataset for this assignment. The dataset contains 150 sampl
 7. **Subplots:** Combine the scatter plot and the histogram into one figure by using subplots.
 
 
-## Author
+You can see my project [here.](https://github.com/SantanuDutta1/Boston-Housing-data-Analysis-Python/blob/main/Boston_Housing_data_EDA.ipynb)
+## Authors
 
-Santanu Dutta
+- [@Santanudutta1](https://github.com/SantanuDutta1)
 
-For inquiries about the Iris Dataset Analysis Using Matplotlib project, please contact Santanu Dutta at santanudutta4328@gmail.com.
+Santanu Dutta - Data Analyst - Santanu Data - All work
+
