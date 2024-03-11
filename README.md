@@ -30,7 +30,7 @@ We will use the Iris dataset for this assignment. The dataset contains 150 sampl
 
 2. **Scatter Plot**
    <p align="left">
-  <img width="600" height="350" src="Iris Photos and graph/images1.jpeg">
+  <img width="600" height="350" src="Iris Photos and graph/Scatterplot.png">
 </p>
 
 3. **Histogram**
