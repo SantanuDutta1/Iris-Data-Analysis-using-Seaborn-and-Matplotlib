@@ -25,7 +25,7 @@ We will use the Iris dataset for this assignment. The dataset contains 150 sampl
 
 1. **Line Plot**
    <p align="center">
-  <img width="600" height="350" src="Iris Photos and graph/images1.jpeg">
+  <img width="600" height="350" src="Iris Photos and graph/sepal_length_plot.png">
 </p>
 
 2. **Scatter Plot**
