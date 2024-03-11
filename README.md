@@ -44,8 +44,9 @@ We will use the Iris dataset for this assignment. The dataset contains 150 sampl
 </p>
 5. **Pie Chart**
 <p align="left">
-  <img width="600" height="350" src="Iris Photos and graph/images1.jpeg">
+  <img width="600" height="350" src="Iris Photos and graph/pie plot of each species.png">
 </p>
+
 6. **Box Plot**
 <p align="left">
   <img width="600" height="350" src="Iris Photos and graph/images1.jpeg">
